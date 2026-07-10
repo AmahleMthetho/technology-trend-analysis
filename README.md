@@ -1,11 +1,11 @@
-Technology Trends Analysis
-Overview
+# Technology Trends Analysis
+## Overview
 
 This project explores global technology trends using survey data collected from software developers worldwide. The objective was to transform raw survey data into meaningful business insights through data cleaning, visualization, and interactive dashboard development.
 
 The analysis identifies current technology adoption, future technology preferences, salary trends, job demand, and demographic insights to support strategic decision-making within the technology industry.
 
-Business Problem
+## Business Problem
 
 Technology is constantly evolving, making it difficult for organisations and professionals to understand which programming languages, databases, cloud platforms, and frameworks are gaining or losing popularity.
 
@@ -67,11 +67,12 @@ Data Visualization
 Business Intelligence
 Trend Analysis
 Data Storytelling
-Project Files
+
+## Project Files
 
 📄 Technology Trends Analysis Report
 
-Author
+## Author
 
 Amahle Mthetho
 
